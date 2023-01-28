@@ -13,7 +13,7 @@ controlbox
 
 tab
  标签页内部拖拽
- 多个tab标签页与标签页之间拖拽
+ 多个tab标签页与标签页之间拖拽(ing...)
 
 table
  滚动条
