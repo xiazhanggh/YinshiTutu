@@ -3,7 +3,7 @@
 WIN32
 gdi
 
-目前构想
+当前
 
 controlbox
  拖动窗体
