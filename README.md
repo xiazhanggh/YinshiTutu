@@ -1,6 +1,7 @@
 # YinshiTutu
 抄富途牛牛
 C#
+Winform
 WIN32
 gdi
 
